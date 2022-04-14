@@ -34,3 +34,6 @@
 # VS
 out
 .vs
+
+#XCODE
+.DS_Store
